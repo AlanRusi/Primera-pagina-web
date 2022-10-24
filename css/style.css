@@ -4,7 +4,7 @@ html{
 
 body{
     margin: 0;
-    background-color: #caebf2;
+    background-color: #d4f2ca;
 }
 
 header{
@@ -25,7 +25,7 @@ header h1{
 
 section article{
     transition: box-shadow 0.3s ease;
-    background-color: #f8eee7;
+    background-color: #f8f8e7;
     margin: 1rem;
     border-radius: 0.5rem;
     padding: 0.25rem 0rem;
@@ -36,7 +36,7 @@ section article:hover{
     box-shadow: 0rem 0.1rem 0.8rem rgba(0, 0, 0, 0.3);
 }
 
-section article h2, section article p{
+section article h2, section article p, section article h3{
     margin: 1rem;
 }
 
